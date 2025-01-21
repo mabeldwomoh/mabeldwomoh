@@ -1,7 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on a **Machine Learning Project**<br>🤝 I’m looking for help with **Deep learning, Machine learning, and Programming**<br>🌱 I’m currently learning **Deep learning**<br>💬 Ask me about **Precision agriculture, Assistive Technology**<br>⚡ Fun fact: I have a website (mabeldwomoh.blog)
-
-
+💫 Hi, I am **Mabel Akua Dwomoh**🔭 I’m currently working on a **Machine Learning Project**<br>🤝 I’m looking for help with **Deep learning, Machine learning, and Programming**<br>🌱 I’m currently learning **Deep learning**<br>💬 Ask me about **Precision agriculture, Assistive Technology**<br>⚡ Fun fact: I have a website (mabeldwomoh.blog)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mabel-dwomoh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mabeldwomoh) 
 
