@@ -1,6 +1,6 @@
 💫 Hi, I am **Mabel Akua Dwomoh**<br>🤝 I’m looking for help with **Deep learning, Machine learning, and Programming**<br>🌱 I’m currently learning **ML Models**<br>💬 Ask me about **Precision agriculture, Assistive Technology**<br>⚡ Fun fact: I have a website (mabeldwomoh.blog)
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/mabel-dwomoh) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mabel-dwomoh) 
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mabeldwomoh) 
 
 # 💻 Tech Stack:
